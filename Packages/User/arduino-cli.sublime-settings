@@ -1,0 +1,5 @@
+  {
+  	"path": "/opt/homebrew-cask/Caskroom/arduino-nightly/latest/Arduino.app/Contents/MacOS/Arduino",
+  	"board": "arduino:avr:uno",
+  	"port": "/dev/tty."
+  }

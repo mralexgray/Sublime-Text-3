@@ -1,0 +1,7 @@
+[
+	{ "keys": ["control+command+down"], "command": "switch_file", "args": {"extensions": ["cpp", "cxx", "cc", "c", "hpp", "hxx", "hh", "h", "ipp", "inl", "m", "mm"]} },
+	{ "keys": ["command+alt+up"], "command": "swap_line_up" },
+	{ "keys": ["command+alt+down"], "command": "swap_line_down" },
+	{ "keys": ["super+,+control"], "command": "open_file", "args": {"file": "${packages}/User//User/Default (OSX).sublime-keymap"} },
+  { "keys": ["command+control+j"], "command": "goto_definition" }
+]
